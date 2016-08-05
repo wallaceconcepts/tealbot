@@ -5,6 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "discord.js": "^8.0.0"
+  "engines": {
+    "node": "4.4.x",
+    "npm": "2.15.x"
+  }
   },
   "devDependencies": {},
   "scripts": {
@@ -23,9 +27,5 @@
     "url": "https://github.com/wallaceconcepts/tealbot/issues"
   },
   "homepage": "https://github.com/wallaceconcepts/tealbot#readme"
-  },
-  "engines": {
-    "node": "4.4.x",
-    "npm": "2.15.x"
   }
 }

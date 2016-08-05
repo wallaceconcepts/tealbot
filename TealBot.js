@@ -44,5 +44,5 @@ bot.on("message", function(message)
 bot.login("rhyswallaceconcepts@gmail.com","magmic");
 
 bot.on('disconnected', function() {
-    bot.login("rhyswallaceconcepts@gmail.com","magmic");
+    bot.login("REDACTED","REDACTED");
 });

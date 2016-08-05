@@ -1,4 +1,26 @@
 {
-  "name": "my-awesome-package",
-  "version": "1.0.0"
+  "name": "tealbot",
+  "version": "1.0.0",
+  "description": "Discord Bot JSON",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello Workd"
+  },
+  "author": "Rhys Wallace",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallaceconcepts/tealbot.git"
+  },
+  "keywords": [
+    "teal"
+  ],
+  "bugs": {
+    "url": "https://github.com/wallaceconcepts/tealbot/issues"
+  },
+  "homepage": "https://github.com/wallaceconcepts/tealbot#readme"
 }
